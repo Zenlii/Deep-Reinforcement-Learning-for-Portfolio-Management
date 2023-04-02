@@ -14,5 +14,5 @@ DDPG file contains all the Deep Deterministic Policy gradient methods and replay
 The design of the agent is inspired by 
 "What is the value of the cross-sectional approach to deep reinforcement learning?"
 
-Env file contains the multi-stock enviroment which designed in 
+Env file contains the multi-stock environment which designed in 
 "A Deep Reinforcement Learning Framework for the Financial Portfolio Management Problem"
